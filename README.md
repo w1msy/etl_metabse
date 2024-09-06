@@ -1,5 +1,5 @@
 # Overview
-![Architecture](assets/architecture.PNG)
+![Architecture](etl_metabase/assets/architecture.PNG)
 
 ## Tech Stack 
 * Docker
@@ -22,8 +22,8 @@ Here are the commands to set up the environment:
 * `make down`: Stop the containers.
 
 ## Date model
-![data_model.png](assets/data_model.png)
+![data_model.png](etl_metabase/assets/data_model.png)
 
 ## Dashboard
-![dashboard1.PNG](assets/metabase_dashboard_1.PNG)
-![dashboard2.PNG](assets/metabase_dashboard_2.PNG)
+![dashboard1.PNG](etl_metabase/assets/metabase_dashboard_1.PNG)
+![dashboard2.PNG](etl_metabase/assets/metabase_dashboard_2.PNG)
